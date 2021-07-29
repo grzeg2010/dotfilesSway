@@ -1,6 +1,6 @@
 # dotfiles - wayland
 ## Pliki konfiguracyjne dla Linuxa używającego Wayland i Sway
-![Zrzut ekrenu]()
+![Zrzut ekrenu](https://raw.githubusercontent.com/typsz/dotfilesSway/main/Desktop.png)
 [Motyw kolorystyczny](https://draculatheme.com/), [(github)](https://github.com/dracula/dracula-theme)<br>
 [Tapeta](https://draculatheme.com/wallpaper)  
 
