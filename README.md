@@ -1,3 +1,7 @@
+> [!NOTE]
+> This repository is archived.
+> Reasons: won't be using WM for a while, switching to DE
+
 # dotfiles - wayland
 ## Pliki konfiguracyjne dla Linuxa używającego Wayland i Sway
 [Motyw kolorystyczny](https://draculatheme.com/), [(github)](https://github.com/dracula/dracula-theme)<br>
